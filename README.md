@@ -80,7 +80,7 @@ struct Nems1337 {
 
 - **Never trust the client.** Years of Luau security research taught me how games get broken, so I build server-authoritative and validate everything.
 - **Understand it before you ship it.** Lua I write by hand. For other languages I use AI to move fast, but I read and test what it gives me.
-- **Own the stack.** I'd rather run the model on my own GPUs than rent a black box. Every animated card on this page comes from [my own API](https://github.com/veyselpavyoncuoglu/veyselpavyoncuoglu/tree/main/api), not someone else's widget.
+- **Own the stack.** I'd rather run the model on my own GPUs than rent a black box. Every animated card on this page comes from [my own API](https://nems1337-profile.vercel.app/api/peek?n=07&t=let%27s+build+something&v=4), not someone else's widget.
 - **Ship real things.** A live URL beats a perfect slide. Most of what's above was built solo.
 
 <p align="center"><img src="https://nems1337-profile.vercel.app/api/peek?n=07&t=let%27s+build+something&v=4" width="100%" alt="Let's build something. Rias Gremory, Akeno Himejima, Xenovia Quarta and Irina Shidou peek over the heading line, with a different pose every time."/></p>
