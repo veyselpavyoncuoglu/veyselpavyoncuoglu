@@ -12,9 +12,9 @@ struct Nems1337 {
 	std::string major = "Software Engineering (B.Sc., in progress)";
 	std::string mainLang = "Lua / Luau"; // 8+ years, no AI needed
 
-	strs alsoSpeak = {"Python","C++","C#","Java","JavaScript","SQL"};
+	strs alsoSpeak = {"Python","C++","C#","Java","JavaScript","TypeScript","SQL"};
 	strs focus = {"AI infra","Luau security research","shipping real products"};
-	strs spoken = {"Turkish (native)","English (B2)","German (learning)"};
+	strs spoken = {"Turkish (native)","English (B2)","German (basic)","Japanese (learning)"};
 
 	strs currently() const {
 		return {
@@ -35,7 +35,11 @@ struct Nems1337 {
 <img src="https://nems1337-profile.vercel.app/api/tile?val=1+night&label=solo+hackathon+build,+working+demo" width="202" alt="1 night : solo hackathon build, working demo"/>
 </p>
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=02&t=things+i%27ve+built" width="100%" alt="Things I've built"/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=02&t=hackathons" width="100%" alt="Hackathons"/></p>
+
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/hacks" width="100%" alt="GenAI Open Agent Hackathon 2026 with team Ausländers. KI-Hackathon Energie : Plankton PV, built solo. Hyperbloom UI/UX and Web Design Hackathon : SafePause, research + frontend in a team of 3."/></p>
+
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=03&t=things+i%27ve+built" width="100%" alt="Things I've built"/></p>
 
 <p align="center">
 <a href="https://luascan.vercel.app/"><img src="https://nems1337-profile.vercel.app/api/card?id=luascan" width="410" alt="luascan : AI-written code detector for Lua/Luau, 95.4% file-level accuracy"/></a>
@@ -50,13 +54,13 @@ struct Nems1337 {
 <img src="https://nems1337-profile.vercel.app/api/card?id=next" width="410" alt="In progress : a fast agent dispatcher and a vocal-separation model"/>
 </p>
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=03&t=stack" width="100%" alt="Stack"/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=04&t=stack" width="100%" alt="Stack"/></p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,py,cpp,cs,java,js,html,css,php,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,py,cpp,cs,java,js,ts,html,css,php,mysql&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,pytorch,linux,windows,git,github,vercel,vscode,figma,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,pytorch,docker,linux,windows,git,github,vercel,vscode,figma,discord&theme=dark" />
 
 </div>
 
@@ -64,7 +68,7 @@ struct Nems1337 {
 
 **From the degree:** OOP in Java, web development (JavaScript, PHP + MySQL), relational databases and SQL, UX/UI design in Figma, team projects run with Scrum, machine learning (CNNs, transfer learning, explainability), applied security (TLS and signing protocols, vulnerability scanning, incident analysis), and digital logic.
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=04&t=live" width="100%" alt="Live"/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=05&t=live" width="100%" alt="Live"/></p>
 
 <p align="center"><img src="https://nems1337-profile.vercel.app/api/stats" width="100%" alt="GitHub stats : repos, stars, contributions, streak and top languages"/></p>
 
@@ -72,14 +76,14 @@ struct Nems1337 {
 
 <p align="center"><img src="https://nems1337-profile.vercel.app/api/status" width="100%" alt="Live status of luascan, Re:Kaixen and the waste classifier"/></p>
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=05&t=what+i+care+about" width="100%" alt="What I care about"/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=06&t=what+i+care+about" width="100%" alt="What I care about"/></p>
 
 - **Never trust the client.** Years of Luau security research taught me how games get broken, so I build server-authoritative and validate everything.
 - **Understand it before you ship it.** Lua I write by hand. For other languages I use AI to move fast, but I read and test what it gives me.
 - **Own the stack.** I'd rather run the model on my own GPUs than rent a black box. Every animated card on this page comes from [my own API](https://github.com/veyselpavyoncuoglu/veyselpavyoncuoglu/tree/main/api), not someone else's widget.
 - **Ship real things.** A live URL beats a perfect slide. Most of what's above was built solo.
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=06&t=let%27s+build+something" width="100%" alt="Let's build something"/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/peek?n=07&t=let%27s+build+something" width="100%" alt="Let's build something. Rias Gremory, Akeno Himejima, Xenovia Quarta and Irina Shidou peek over the heading line."/></p>
 
 Open to **internships**, **hackathon teams** and **collabs** in AI infrastructure, security and game dev. If you're building something with LLMs, Luau, or anything that needs to be fast and hard to break, open an issue on one of my repos or find me through [Re:Kaixen](https://re.kaixen.online/).
 
