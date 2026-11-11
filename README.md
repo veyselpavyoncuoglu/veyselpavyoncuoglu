@@ -83,7 +83,7 @@ struct Nems1337 {
 - **Own the stack.** I'd rather run the model on my own GPUs than rent a black box. Every animated card on this page comes from [my own API](https://github.com/veyselpavyoncuoglu/veyselpavyoncuoglu/tree/main/api), not someone else's widget.
 - **Ship real things.** A live URL beats a perfect slide. Most of what's above was built solo.
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/peek?n=07&t=let%27s+build+something" width="100%" alt="Let's build something. Rias Gremory, Akeno Himejima, Xenovia Quarta and Irina Shidou peek over the heading line."/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/peek?n=07&t=let%27s+build+something&v=2" width="100%" alt="Let's build something. Rias Gremory, Akeno Himejima, Xenovia Quarta and Irina Shidou peek over the heading line."/></p>
 
 Open to **internships**, **hackathon teams** and **collabs** in AI infrastructure, security and game dev. If you're building something with LLMs, Luau, or anything that needs to be fast and hard to break, open an issue on one of my repos or find me through [Re:Kaixen](https://re.kaixen.online/).
 
