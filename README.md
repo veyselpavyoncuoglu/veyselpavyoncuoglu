@@ -32,12 +32,12 @@ struct Nems1337 {
 <img src="https://nems1337-profile.vercel.app/api/tile?val=95.4%25&label=luascan+file-level+accuracy" width="202" alt="95.4% luascan file-level accuracy"/>
 <img src="https://nems1337-profile.vercel.app/api/tile?val=97.1%25&label=waste+classifier+test+accuracy" width="202" alt="97.1% waste classifier test accuracy"/>
 <img src="https://nems1337-profile.vercel.app/api/tile?val=8%2B+yrs&label=of+Lua%2FLuau,+written+by+hand" width="202" alt="8+ years of Lua/Luau, written by hand"/>
-<img src="https://nems1337-profile.vercel.app/api/tile?val=1+night&label=solo+hackathon+build,+working+demo" width="202" alt="1 night : solo hackathon build, working demo"/>
+<img src="https://nems1337-profile.vercel.app/api/tile?val=1+night&label=team+of+4+hackathon,+working+demo" width="202" alt="1 night : team of 4 hackathon build, working demo"/>
 </p>
 
 <p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=02&t=hackathons" width="100%" alt="Hackathons"/></p>
 
-<p align="center"><img src="https://nems1337-profile.vercel.app/api/hacks" width="100%" alt="GenAI Open Agent Hackathon 2026 with team Ausländers. KI-Hackathon Energie : Plankton PV, built solo. Hyperbloom UI/UX and Web Design Hackathon : SafePause, research + frontend in a team of 3."/></p>
+<p align="center"><img src="https://nems1337-profile.vercel.app/api/hacks?v=2" width="100%" alt="GenAI Open Agent Hackathon 2026 with team Ausländers, a team of 4. KI-Hackathon Energie : Plankton PV, built in a team of 4. Hyperbloom UI/UX and Web Design Hackathon : SafePause, research + frontend in a team of 3."/></p>
 
 <p align="center"><img src="https://nems1337-profile.vercel.app/api/section?n=03&t=things+i%27ve+built" width="100%" alt="Things I've built"/></p>
 
@@ -45,7 +45,7 @@ struct Nems1337 {
 <a href="https://luascan.vercel.app/"><img src="https://nems1337-profile.vercel.app/api/card?id=luascan" width="410" alt="luascan : AI-written code detector for Lua/Luau, 95.4% file-level accuracy"/></a>
 <a href="https://re.kaixen.online/"><img src="https://nems1337-profile.vercel.app/api/card?id=rekaixen" width="410" alt="Re:Kaixen : premium Discord bot, verified on Top.gg, Stripe billing live"/></a>
 <a href="https://explainable-cnn-based-waste-classif.vercel.app/"><img src="https://nems1337-profile.vercel.app/api/card?id=waste" width="410" alt="Explainable waste classifier : 12 classes, 97.1% test accuracy, Grad-CAM and SHAP, runs in the browser via ONNX"/></a>
-<img src="https://nems1337-profile.vercel.app/api/card?id=plankton" width="410" alt="Plankton PV : solo overnight hackathon build, an agent answering solar questions with cited sources"/>
+<img src="https://nems1337-profile.vercel.app/api/card?id=plankton&v=2" width="410" alt="Plankton PV : overnight hackathon build in a team of 4, an agent answering solar questions with cited sources"/>
 <img src="https://nems1337-profile.vercel.app/api/card?id=brewian" width="410" alt="Brewian : my own Lua/Luau obfuscator, written in C#"/>
 <img src="https://nems1337-profile.vercel.app/api/card?id=infer" width="410" alt="Self-hosted inference stack : multi-GPU LLM serving with vLLM and LiteLLM"/>
 <a href="https://github.com/veyselpavyoncuoglu/FRS"><img src="https://nems1337-profile.vercel.app/api/card?id=frs" width="410" alt="FRS : Free RAM System, a configurable RAM cleaner"/></a>
